@@ -1,7 +1,4 @@
 ### Hi there 👋
-Get free website hosting on [gilect.com](https://gilect.com)
-> When education and resources are available to all without a price tag, there will be no limit to the human potential -Jacque Fresco
-
 <!--
 **gilect-com/gilect-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
